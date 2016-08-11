@@ -5,6 +5,6 @@ There's typically three styles of workshop we run: [design](workshop-design/intr
 
 
 ## References
-https://www.ibm.com/design/thinking/
-http://blog.acolyer.org/2016/03/04/googles-hybrid-approach-to-research/
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38149.pdf
+* https://www.ibm.com/design/thinking/
+* http://blog.acolyer.org/2016/03/04/googles-hybrid-approach-to-research/
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38149.pdf
