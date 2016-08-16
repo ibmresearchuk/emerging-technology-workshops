@@ -1,22 +1,19 @@
 # How To Run A Sprint Workshop
+Aims, what it's about etc...
 
-## Aim
-
-## Resources
+## Attendees
 
 ## Requirements
 
-
 ## Expected Outcome
-
-## Attendees
 
 ## What to do before the workshop
 
 ## How to run the workshop
 
-## Resources
+## What can go wrong
 
+## Resources
 
 ## Suggested Agenda
 ### Day 1

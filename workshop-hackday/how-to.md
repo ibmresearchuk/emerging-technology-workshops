@@ -1,24 +1,20 @@
 # How To Run A Hackday Workshop
+Aims, what it's about etc...
 
-## Aim
-
-## Resources
+## Attendees
 
 ## Requirements
 
-
 ## Expected Outcome
-
-## Attendees
 
 ## What to do before the workshop
 
 ## How to run the workshop
 
+## What can go wrong
+
 ## Resources
 
-
 ## Suggested One Day Agenda
-
 
 ## Suggested Two Day Agenda
