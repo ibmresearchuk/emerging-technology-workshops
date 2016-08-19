@@ -13,6 +13,8 @@ Aims, what it's about etc...
 
 ## What can go wrong
 
+## How to document
+
 ## Resources
 
 ## Suggested Agenda

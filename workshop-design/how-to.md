@@ -36,6 +36,8 @@ At the start of each activity the facilitator just needs to spend 30 seconds exp
 1. A participant comes to the session with the answer already fixed in their mind. A key part of the Design Thinking process is not to come in with preset ideas and be open to new or different thoughts, or those by people who don't always get a voice.  The moderator should try and stop this person dominating, but it can be difficult.
 2. The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
 
+## How to document
+
 ## Resources
 Design Thinking introduction presentation.
 Design Thinking activity screens.
