@@ -37,6 +37,7 @@ At the start of each activity the facilitator just needs to spend 30 seconds exp
 2. The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
 
 ## How to document
+* Photos of all
 
 ## Resources
 Design Thinking introduction presentation.
