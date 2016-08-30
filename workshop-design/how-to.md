@@ -8,6 +8,10 @@ From Emerging Technology bring in people depending on the number of attendees. W
 It's important that everyone who is attending is fully involved in the sessions.  People who participate in some sessions, but not all of them disrupt the group and the activities.  This applies to both the host and client teams.  If someone cannot commit to giving their full attention to the whole workshop, it is better that they don't take part in the working part, but are invited to the playbacks at the end of the workshop
 
 ## Requirements
+* A1 Post-it notes
+* Normal Post-it notes
+* Sharpies
+* Materials for paper prototypes (paper, coloured pens, scissors)
 
 ## Expected Outcome
 We’d capture and writeup the sessions to give to the customer.  These can be useful on their own as a reminder of problems and solutions that we didn’t have time to fully explore in the two days.
@@ -15,7 +19,6 @@ We’d capture and writeup the sessions to give to the customer.  These can be u
 Prototype(s) - this could be paper based, mockup on screens or a working system depending on the people involved.  There might be multiple prototypes depending on the numbers involved and the scope of the problem.
 
 Outline plan for how we’d take the idea forward (what needs to be done next).
-
 
 
 ## What to do before the workshop
@@ -31,18 +34,26 @@ People who have no experience of Design Thinking tend to find the first activity
 
 At the start of each activity the facilitator just needs to spend 30 seconds explaining what to do in the activity and what the purpose is. It's useful to put an example of the activity on a screen. A suggested agenda with the activities listed can be seen below.
 
+The last few minutes of each activity should be spent doing playbacks.  Each group nominate someone to talk about the key points that came up in that activity.  Each playback should be limited to 60 seconds and another 60 seconds for questions.
+
 
 ## What can go wrong
-1. A participant comes to the session with the answer already fixed in their mind. A key part of the Design Thinking process is not to come in with preset ideas and be open to new or different thoughts, or those by people who don't always get a voice.  The moderator should try and stop this person dominating, but it can be difficult.
-2. The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
+* A participant comes to the session with the answer already fixed in their mind. A key part of the Design Thinking process is not to come in with preset ideas and be open to new or different thoughts, or those by people who don't always get a voice.  The moderator should try and stop this person dominating, but it can be difficult.
+* The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
 
 ## How to document
-* Photos of all
+* Photos of all A1 Post-it notes from each exercise.
+* Try and make brief notes about key points from each playback.
+
+## What to do after workshop
+* Collate all the photos of each activity into a single document.  Add any notes that you took from the playback against the photos.
+* Share the document with the client and ask them to add in any notes that had been missed.
 
 ## Resources
-Design Thinking introduction presentation.
-Design Thinking activity screens.
-Design Thinking
+[Design Thinking Intro/Activities With Notes (Keynote)](design-thinking.key)
+[Design Thinking Intro/Activities With Notes (PDF)](design-thinking-withnotes.pdf)
+[Design Thinking Intro/Activities (PDF)](design-thinking.pdf)
+
 
 ## Suggested One Day Agenda
 ### Day 1
@@ -132,5 +143,6 @@ Work to put the scenario in terms of a who a what and a why.  Should be a single
 #### Break (10 minutes)
 
 #### Playbacks (40 minutes)
+Present summary from each group.  What they've produced and the conclusions they've arrived at.
 
 #### Wrap Up and Next Steps (20 minutes)
