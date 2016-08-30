@@ -1,6 +1,8 @@
 # Hackday Workshop
 A one or two day workshop where we take a particular technology or data set and develop prototypes with them. Hackday workshops tend to be more focussed on the technology or data than users or problem. They are a good way of quickly (and cheaply) testing if a particular technology has potential.
 
+[How to run a hackday workshop](how-to.md)
+
 ## When to do a hackday workshop
 * There is a new technology or data set you want to investigate.
 * The participants are developers.

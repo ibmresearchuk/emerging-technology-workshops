@@ -7,8 +7,6 @@ Small groups working independently is relatively easy to manage and does not req
 
 Working on a coordinated project is much more difficult and relies on groups working well together and being able to breakdown the problem sufficiently that each group can work without holding each other up. The problem should be broken down, at least in outline, before the workshop.
 
-[How to run a hackday workshop](how-to.md)
-
 ## Attendees
 All attendees should be developers. If non-developer subject matter experts are needed they should be included in the day as needed. Everyone involved in the workshop will be expected to be hands on.
 
