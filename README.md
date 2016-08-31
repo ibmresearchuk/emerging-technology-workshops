@@ -11,6 +11,5 @@ There's typically three styles of workshop we run: [design](workshop-design/intr
 
 
 # To Do
-* Add template documents for all workshops
-* Extenral, 'public' pages
+* External, 'public' pages
 * Reference examples
