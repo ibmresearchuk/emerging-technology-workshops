@@ -18,4 +18,4 @@ The rest of the workshop is left for the joint development teams to work togethe
 At the end of two days of ideas and hacks we'll have a set of working prototypes. These are often useful in their own right to prove (or disprove) a technology, to help sell the idea and to scope out what work would be required to go from the prototype to a production system.  The Emerging Technology developers will work with you to plan what needs to happen next.
 
 ## Get in touch or find out more
-If you're interested in running a Hackday Workshop or want to find out more, contact Darren Shaw](mailto:shawdm@uk.ibm.com).
+If you're interested in running a Hackday Workshop or want to find out more, contact [Darren Shaw](mailto:shawdm@uk.ibm.com).
