@@ -4,6 +4,7 @@ A one or two day workshop where we take a specific user problem and design a sol
 A design workshop is completely focussed around users.  It will be a hands-on session that encourages full participation and input from everyone taking part.
 
 [What to send a client interested in a design workshop](external.md)
+
 [How to run a design workshop](how-to.md)
 
 ## When to do a design workshop
