@@ -50,9 +50,11 @@ The last few minutes of each activity should be spent doing playbacks.  Each gro
 * Share the document with the client and ask them to add in any notes that had been missed.
 
 ## Resources
-[Design Thinking Intro/Activities With Notes (Keynote)](design-thinking.key)
-[Design Thinking Intro/Activities With Notes (PDF)](design-thinking-withnotes.pdf)
-[Design Thinking Intro/Activities (PDF)](design-thinking.pdf)
+[Design Thinking Intro/Activities With Notes (Keynote)](../resources/design-thinking.key)
+
+[Design Thinking Intro/Activities With Notes (PDF)](../resources/design-thinking-withnotes.pdf)
+
+[Design Thinking Intro/Activities (PDF)](../resources/design-thinking.pdf)
 
 
 ## Suggested One Day Agenda
