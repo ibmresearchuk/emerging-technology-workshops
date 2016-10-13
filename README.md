@@ -11,10 +11,8 @@ A design workshop is completely focussed around users.  It will be a hands-on se
 ## Hackday Workshops
 A one or two day workshop where we take a particular technology or data set and develop prototypes with them. Hackday workshops tend to be more focussed on the technology or data than users or problem. They are a good way of quickly (and cheaply) testing if a particular technology has potential. [Read More](workshop-hackday/introduction.md)
 
-
 ## Sprint Workshops
-
-[Read More](workshop-sprint/introduction.md)
+The workshop is over two days, but with a three day gap between for prototype development to take place. The first day is a design session for the client and Emerging Technology developers to define the problem, technology and prototype that will be built.  The developers will then spend three days building the prototype for a playback with the client on day five. Ideally the playback will be done in person, but it can be done virtually if necessary. [Read More](workshop-sprint/introduction.md)
 
 
 ## References
