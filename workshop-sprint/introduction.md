@@ -17,7 +17,7 @@ The workshop is over two days, but with a three day gap between for prototype de
 A working prototype
 
 ## How many client participants can there be
-1-6
+1-4
 
 ## Cost
 5 person days
