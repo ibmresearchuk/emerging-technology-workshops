@@ -35,6 +35,9 @@ Working prototypes.
 
 ## Resources
 
+## FAQ
+### Who owns the IP?
+
 ## Suggested One Day Agenda
 
 ## Suggested Two Day Agenda

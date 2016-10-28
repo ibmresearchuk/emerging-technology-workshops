@@ -40,6 +40,9 @@ Once a paper prototype has been produced, this will be enough to let the develop
 * The solution isn't something that can be prototyped. Solutions that take the form on a user interface are generally easy to prototype. You may need to mock some parts of the system up, but you can generally build something that shows how the solution would work from a user's perspective.  Some solutions, however, might not take this form, they might be a non-IT solution, a physical object or a hidden algorithm.  In this case, work with the client to figure out how to best take the idea forward.  It could be in producing a storyboard, a video, or presentation.
 
 
+## FAQ
+### Who owns the IP?
+
 ## Suggested Agenda
 ### Day 1
 #### Introductions (10 minutes)

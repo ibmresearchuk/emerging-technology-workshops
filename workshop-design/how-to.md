@@ -56,6 +56,8 @@ The last few minutes of each activity should be spent doing playbacks.  Each gro
 
 [Design Thinking Intro and Activities (PDF)](../resources/design-thinking.pdf)
 
+## FAQ
+### Who owns the IP?
 
 ## Suggested One Day Agenda
 ### Day 1
