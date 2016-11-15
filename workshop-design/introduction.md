@@ -1,5 +1,5 @@
 # Design Workshop
-A one or two day workshop where we take a specific user problem and design a solution or a set of solutions to it.  We use IBM's Design Thinking process to understand user needs, map out the the task the user is attempting and come up with solutions that meet that need.  
+A one or two day workshop where we take a specific user problem and design a solution or a set of solutions to it.  We use IBM's Design Thinking process to understand user needs, map out the task the user is attempting and come up with solutions that meet their need.  
 
 A design workshop is completely focussed around users.  It will be a hands-on session that encourages full participation and input from everyone taking part.
 
@@ -26,7 +26,7 @@ A design workshop is completely focussed around users.  It will be a hands-on se
 * The chance to try out Design Thinking.
 
 ## Output
-The output can vary based on client needs and the type of solution arrived at. Typical outputs include: a statement of the solution, a workflow describing how the user will make use the solution, a prototype or mockup.
+The output can vary based on client needs and the type of solution arrived at. Typical outputs include: a statement of the solution, a workflow describing how the user will make use of the solution, a prototype or mockup.
 
 ## How many client participants can there be
 1-12

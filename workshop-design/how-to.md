@@ -3,9 +3,9 @@
 ## Attendees
 Ideally there should be range of people from the client: developers, operations and people from the business. Most important is someone to represent the users experiencing the problem that has been identified. Ideally this would be the person who has the problem directly but if that’s not possible a proxy can be used. This is someone who has enough experience of the problem to represent the user.
 
-From Emerging Technology bring in people depending on the number of attendees. We’d normally break down the sessions in to groups of around four and we would have one ETS person in each group.  If the client has a particular focus on a technology or an industry that someone from Emerging Technology also has it would be ideal to have them included.
+Emerging Technology bring in people depending on the number of attendees. We’d normally break down the sessions in to groups of around four and we would have one ETS person in each group.  If the client has a particular focus on a technology or an industry that someone from Emerging Technology also has it would be ideal to have them included.
 
-It's important that everyone who is attending is fully involved in the sessions.  People who participate in some sessions, but not all of them disrupt the group and the activities.  This applies to both the host and client teams.  If someone cannot commit to giving their full attention to the whole workshop, it is better that they don't take part in the working part, but are invited to the playbacks at the end of the workshop
+It's important that everyone who is attending is fully involved in the sessions.  People who participate in some sessions, but not all of them disrupt the group and the activities.  This applies to both the host and client teams.  If someone cannot commit to giving their full attention to the whole workshop, it is better that they don't take part in the working part, but are invited to the playbacks at the end of the workshop.
 
 ## Requirements
 * A1 Post-it notes
@@ -24,7 +24,7 @@ Outline plan for how we’d take the idea forward (what needs to be done next).
 ## What to do before the workshop
 * Run through with the client how the day(s) will be organised.
 * Make sure there is at least one user (or proxy user) who will attend.  Ideally, each team should have one user.
-* Work out the teams, skills, background and experience should be spread amongst different groups as far as possible.  Ideal team size is three or four, each team should include one Emerging Technology developer.
+* Work out how the teams, skills, background and experience should be spread amongst different groups as far as possible.  Ideal team size is three or four, each team should include one Emerging Technology developer.
 * Book a room with plenty of wall space for charts and make sure there's plenty of post-its, sharpies.
 
 ## How to run the workshop
@@ -56,11 +56,8 @@ The last few minutes of each activity should be spent doing playbacks.  Each gro
 
 [Design Thinking Intro and Activities (PDF)](../resources/design-thinking.pdf)
 
-## FAQ
-### Who owns the IP?
-
 ## Suggested One Day Agenda
-### Day 1
+
 #### Introductions (20 minutes)
 * Individual introductions.
 * What ETS is.
