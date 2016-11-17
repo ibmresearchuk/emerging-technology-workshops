@@ -18,6 +18,7 @@ Working prototypes.
 ## What to do before the workshop
 * Think about how code is going to be shared during and after the workshop. This needs to be agreed with the client.
 * Make sure the clients expectations of any prototype are realistic. It is nearly always the case that the prototype is throw away code and allows for testing and experimenting with data and technology. It can inform a production application, but is almost never the base of one.
+* Get any libraries, frameworks or developer tools you intend to use set up beforehand. You do not want to waste hours on the day fiddling with installing software on everyone's machine. 
 
 ## How to run the workshop
 * Agree a schedule at the start of the workshop.  The schedule need to have at a minimum a fixed time for playbacks/demos at the end of each day. It is also possible to have playbacks before lunch if the group feels this is useful.
