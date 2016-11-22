@@ -41,11 +41,11 @@ The last few minutes of each activity should be spent doing playbacks.  Each gro
 * The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
 
 ## How to introduce Design Thinking on the day
-We’re going to spend most of the session today doing Doing Thinking, it's best understood that way, but I'll just do a quick introduction.
+We’re going to spend most of the session today actually doing Design Thinking, it's best understood that way, but I'll just do a quick introduction.
 
-Design Thinking is a philosophy and a set of tools to help produce things that actually solve real user problems. It isn’t something IBM came up with, it came out of Stanford University and IDEO. IBM have taken that and applied some techniques around it to develop a better way for us to create products and services. The real key is that it everything we do is from the user’s perspective. So not from marketing, sales, buyers or management’s point of view - this was something we often got wrong in product development in the past.
+Design Thinking is a philosophy and a set of tools to help produce things that actually solve real user problems. It isn’t something IBM came up with, it came from Stanford University and IDEO. IBM have adopted it and added some tools and techniques, giving us a means to create better products and services. The real key is that it everything we do is from the user’s perspective. So not from marketing, sales, buyers or management’s point of view - this was something we often got wrong in product development in the past.
 
-Design Thinking is not about how things look. It's not necessarily about technology, but the best solution to a problem is not always a new app.
+Design Thinking is not about how things look. It's not necessarily about technology, the best solution to a problem is not always a new app. The right solution is the one that best meets the user's needs.
 
 ## How to document
 * Photos of all A1 Post-it notes from each exercise.
