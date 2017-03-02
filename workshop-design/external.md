@@ -1,6 +1,9 @@
 ## Design Thinking
 Design workshops allow Emerging Technology developers and designers to work with you on a specific user problem. We use IBM's <a href="https://www.ibm.com/design/thinking/">Design Thinking</a> process to understand user needs and develop solutions to meet them. A design workshop is completely focussed around users. They are hands-on sessions that encourage empathy towards users and are often responsible for generating new ideas or solutions.
 
+![Emerging Technology Design Thinking](design-thinking-board.jpg)
+*Image: [Nick O'Leary](https://www.flickr.com/photos/knolleary/15572623342/in/album-72157648445616348/)*
+
 The Emerging Technology team have experience of applying Design Thinking to real problems, but are also skilled technologists. Their background technical knowledge often allows them to propose novel solutions. You input expert industry knowledge and understanding of the target user.
 
 ## What we Offer
