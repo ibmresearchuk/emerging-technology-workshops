@@ -41,11 +41,14 @@ The last few minutes of each activity should be spent doing playbacks.  Each gro
 * The participants have less understanding of the user than they thought. It is difficult to accurately get at the real problem in this case, but can be useful alone in showing the lack of understanding.
 
 ## How to introduce Design Thinking on the day
-We’re going to spend most of the session today actually doing Design Thinking, it's best understood that way, but I'll just do a quick introduction.
-
-Design Thinking is a philosophy and a set of tools to help produce things that actually solve real user problems. It isn’t something IBM came up with, it came from Stanford University and IDEO. IBM have adopted it and added some tools and techniques, giving us a means to create better products and services. The real key is that it everything we do is from the user’s perspective. So not from marketing, sales, buyers or management’s point of view - this was something we often got wrong in product development in the past.
+Today is gong to be a hands-on, practical workshop. We'll use Design Thinking, a technique we use to produce things that actually solve real user problems. It originally came from Stanford University and IDEO. IBM  adopted it and its the way we develop all our products and services today. The real key is that it everything we do is from the user’s perspective. So not from marketing, sales, buyers or management’s point of view - this was something we often got wrong in product development in the past. We use it to solve user's real problems, not the problems we imagine they have.
 
 Design Thinking is not about how things look. It's not necessarily about technology, the best solution to a problem is not always a new app. The right solution is the one that best meets the user's needs.
+
+It's a technique that's easiest to understand by actually using, so we're going to get right into it as quickly as possible. We’re going to attempt to get though four/five/six/seven Design Thinking activities today, which will take us from understanding the user, through their problem, some solutions and how things would be with the solution implemented.
+
+We’re going to split in to smaller groups.  All these activities are done on flipcharts with post it notes.  Each of the activities will take about 20 minutes and then we’ll do 60 second reviews of what each group has come up with.  The Design Thinking activities all take the same approach, we start by writing notes on post-its, initially just getting everything recorded, you don’t need to discuss things initially, then we go round a loop of trying to refine what you’ve come up with as a group and try and identify the key things.  It makes more sense once you do it.
+
 
 ## How to document
 * Photos of all A1 Post-it notes from each exercise.
